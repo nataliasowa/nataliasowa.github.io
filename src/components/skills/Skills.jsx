@@ -2,6 +2,7 @@ import React from "react";
 import "./skills.css";
 import { FaCheckDouble } from "react-icons/fa";
 
+
 const Skills = () => {
   return (
     <section id="skills">
@@ -44,7 +45,7 @@ const Skills = () => {
             <article className="skills__details">
               <FaCheckDouble className="skills__details-icon"/>
               <div>
-                <h4>Figma (more of design)</h4>
+                <h4>Figma (designing)</h4>
               </div>
             </article>
           </div>

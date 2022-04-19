@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nataliasowa.github.io/static/css/main.469fd8c0.css",
-    "main.js": "/nataliasowa.github.io/static/js/main.a9288bf2.js",
+    "main.js": "/nataliasowa.github.io/static/js/main.ebad5fce.js",
     "static/js/787.1ed0c42c.chunk.js": "/nataliasowa.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/nsowCV.pdf": "/nataliasowa.github.io/static/media/nsowCV.605e61780e00d4a6520c.pdf",
     "static/media/me-about.png": "/nataliasowa.github.io/static/media/me-about.6650bfad20bfddca1486.png",
@@ -12,11 +12,11 @@
     "static/media/portfolio3.png": "/nataliasowa.github.io/static/media/portfolio3.7acfd66299e68b50272c.png",
     "index.html": "/nataliasowa.github.io/index.html",
     "main.469fd8c0.css.map": "/nataliasowa.github.io/static/css/main.469fd8c0.css.map",
-    "main.a9288bf2.js.map": "/nataliasowa.github.io/static/js/main.a9288bf2.js.map",
+    "main.ebad5fce.js.map": "/nataliasowa.github.io/static/js/main.ebad5fce.js.map",
     "787.1ed0c42c.chunk.js.map": "/nataliasowa.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.469fd8c0.css",
-    "static/js/main.a9288bf2.js"
+    "static/js/main.ebad5fce.js"
   ]
 }

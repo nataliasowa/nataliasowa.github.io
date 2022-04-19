@@ -37,7 +37,7 @@ const data = [
     title: "Crwn Clothing Webshop",
     description: "React, Firebase",
     github: "https://github.com/nataliasowa/crwn-clothing-v2",
-    demo: "#",
+    demo: "https://stellar-beignet-7fc4be.netlify.app/",
   },
 ];
 

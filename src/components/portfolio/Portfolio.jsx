@@ -20,7 +20,7 @@ const data = [
     image: IMG2,
     title: "Meal Sharing App",
     description: "React, NodeJS, ExpressJS, MySQL",
-    github: "https://meal-sharing-2021.herokuapp.com/",
+    github: "https://github.com/nataliasowa/meal-sharing",
     demo: "https://meal-sharing-2021.herokuapp.com/",
   },
   {

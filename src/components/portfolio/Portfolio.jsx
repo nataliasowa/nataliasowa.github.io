@@ -5,7 +5,6 @@ import IMG2 from "../../assets/portfolio2.png";
 import IMG3 from "../../assets/portfolio3.png";
 import IMG4 from "../../assets/portfolio4.png";
 
-
 const data = [
   {
     id: 1,
@@ -17,27 +16,19 @@ const data = [
   },
   {
     id: 2,
-    image: IMG2,
-    title: "Meal Sharing App",
-    description: "React, NodeJS, ExpressJS, MySQL",
-    github: "https://github.com/nataliasowa/meal-sharing",
-    demo: "https://meal-sharing-2021.herokuapp.com/",
+    image: IMG4,
+    title: "Crwn Clothing Webshop",
+    description: "React, Firebase",
+    github: "https://github.com/nataliasowa/crwn-clothing-v2",
+    demo: "https://stellar-beignet-7fc4be.netlify.app/",
   },
   {
     id: 3,
     image: IMG3,
     title: "Monsters Search Application",
     description: "React, HTML, CSS",
-    github: "#",
-    demo: "#",
-  },
-  {
-    id: 4,
-    image: IMG4,
-    title: "Crwn Clothing Webshop",
-    description: "React, Firebase",
-    github: "https://github.com/nataliasowa/crwn-clothing-v2",
-    demo: "https://stellar-beignet-7fc4be.netlify.app/",
+    github: "https://github.com/nataliasowa/monsters",
+    demo:"https://helpful-dusk-11831e.netlify.app"
   },
 ];
 

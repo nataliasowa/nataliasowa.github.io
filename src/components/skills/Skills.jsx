@@ -15,13 +15,7 @@ const Skills = () => {
             <article className="skills__details">
               <FaCheckDouble className="skills__details-icon" />
               <div>
-                <h4>HTML</h4>
-              </div>
-            </article>
-            <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon"/>
-              <div>
-                <h4>CSS</h4>
+                <h4>HTML & CSS</h4>
               </div>
             </article>
             <article className="skills__details">
@@ -33,7 +27,19 @@ const Skills = () => {
             <article className="skills__details">
               <FaCheckDouble className="skills__details-icon"/>
               <div>
-                <h4>React</h4>
+                <h4>ReactJS (hooks)</h4>
+              </div>
+            </article>
+            <article className="skills__details">
+              <FaCheckDouble className="skills__details-icon"/>
+              <div>
+                <h4>TypeScript</h4>
+              </div>
+            </article>
+            <article className="skills__details">
+              <FaCheckDouble className="skills__details-icon"/>
+              <div>
+                <h4>Redux</h4>
               </div>
             </article>
             <article className="skills__details">

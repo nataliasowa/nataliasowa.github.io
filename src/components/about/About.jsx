@@ -22,7 +22,8 @@ const About = () => {
             <article className="about__card">
               <HiOutlineDesktopComputer className="about__icon" />
               <h5>Experience</h5>
-              <small>6+ Months Coding</small>
+              <small>7-months Boothcamp in full stack web development <b>AND</b> 1-month internship</small>
+            
             </article>
 
             <article className="about__card">
@@ -42,13 +43,14 @@ const About = () => {
             paths and pursue my programing dreams. I’ve started that journey
             with HackYourFuture school in Copenhagen where I got to learn how to
             create beneficial web solutions using various technologies, such as
-            react, mysql, express js etc. Now as a fresh graduate I'm looking
-            into getting hands on codding in practice.
+            ReactJS, mysql, ExpressJS, NodeJS etc. I've recently finished my
+            first internship within frontend development working with ReactJS
+            and TypeScript.
           </p>
           <p>
             I don't like to define myself by the work I've done. I define myself
-            by the hunger of learning new skills I have. Skills can be taught but only
-            a discipline and self-motivation is the key to success.
+            by the hunger of learning new skills I have. Skills can be taught
+            but only a discipline and self-motivation is the key to success.
           </p>
         </div>
       </div>

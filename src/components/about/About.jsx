@@ -22,14 +22,14 @@ const About = () => {
             <article className="about__card">
               <HiOutlineDesktopComputer className="about__icon" />
               <h5>Experience</h5>
-              <small>7-months Boothcamp in full stack web development <b>AND</b> 1-month internship</small>
+              <small>Internship at Veo Technologies</small>
             
             </article>
 
             <article className="about__card">
               <MdSchool className="about__icon" />
               <h5>School</h5>
-              <small>Hack Your Future Denmark</small>
+              <small>Full Stack Web Development at HYF Copenhagen</small>
             </article>
 
             <article className="about__card">

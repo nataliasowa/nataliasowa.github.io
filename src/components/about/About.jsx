@@ -8,8 +8,8 @@ import { BiSearch } from "react-icons/bi";
 const About = () => {
   return (
     <section id="about">
-      <h5>Get to know</h5>
-      <h2>About me</h2>
+      <h5>Get to know me</h5>
+      <h2>Why I became Software Engineer</h2>
 
       <div className="container about__container">
         <div className="about__me">
@@ -21,9 +21,8 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <HiOutlineDesktopComputer className="about__icon" />
-              <h5>Experience</h5>
-              <small>Internship at Veo Technologies</small>
-            
+              <h5>Job</h5>
+              <small>Software Engineer at Awaze</small>
             </article>
 
             <article className="about__card">
@@ -35,22 +34,34 @@ const About = () => {
             <article className="about__card">
               <BiSearch className="about__icon" />
               <h5>Open for</h5>
-              <small>Internships and Junior positions</small>
+              <small>Frontend Software Engineer Jobs </small>
             </article>
           </div>
           <p>
-            After 4 years working in Marketing field, I’ve decided to switch
-            paths and pursue my programing dreams. I’ve started that journey
-            with HackYourFuture school in Copenhagen where I got to learn how to
-            create beneficial web solutions using various technologies, such as
-            ReactJS, mysql, ExpressJS, NodeJS etc. I've recently finished my
-            first internship within frontend development working with ReactJS
-            and TypeScript.
+            My interest in software engineering was sparked during my marketing
+            job when I took on a project that required me to learn basic HTML
+            and CSS skills. I began coding in the evenings after work, learning
+            through free online platforms which was not easy. Soon after I
+            joined the full-stack web development boothcamp in Copenhagen, I
+            learned everything from the ground-up, finishing with building a
+            group project: a full-stack plant shop website to make shopping for
+            plants easy and enjoyable for everyone. After that I continued to
+            learn, meantime I participated in a one-month project-based
+            internship focused on building a video player where I got to use
+            JavaScript and React skills. I've also been improving my soft skills
+            by observing people working together in teams, collaborating, and
+            solving problems. Soon after I landed my first job as a junior
+            software enginner with the main focus on the frontend part of
+            application, using NextJs, React hooks, TypeScript, that also
+            includes unit testing in Jest as well as end to end testing in
+            Cypress. Right now, I'm in the process of learning how to use AWS
+            effectively.
           </p>
           <p>
-            I don't like to define myself by the work I've done. I define myself
-            by the hunger of learning new skills I have. Skills can be taught
-            but only a discipline and self-motivation is the key to success.
+            If I could go back in time, I would make the same choices as I
+            unexpectedly discovered my passion for programming, and now I enjoy
+            doing it every day and I don't think about it as a job but rather a
+            hobby.
           </p>
         </div>
       </div>

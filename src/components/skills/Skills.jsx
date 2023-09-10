@@ -2,11 +2,10 @@ import React from "react";
 import "./skills.css";
 import { FaCheckDouble } from "react-icons/fa";
 
-
 const Skills = () => {
   return (
     <section id="skills">
-      <h5>What I have learnt?</h5>
+      <h5>Technology I use</h5>
       <h2>Here are some of my skills</h2>
       <div className="container skills__container">
         <div className="skills__frontend">
@@ -25,33 +24,33 @@ const Skills = () => {
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon"/>
+              <FaCheckDouble className="skills__details-icon" />
               <div>
                 <h4>ReactJS (hooks)</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon"/>
+              <FaCheckDouble className="skills__details-icon" />
               <div>
                 <h4>TypeScript</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon"/>
+              <FaCheckDouble className="skills__details-icon" />
               <div>
                 <h4>Redux</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon"/>
+              <FaCheckDouble className="skills__details-icon" />
               <div>
                 <h4>Storybook</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon"/>
+              <FaCheckDouble className="skills__details-icon" />
               <div>
-                <h4>Figma (design)</h4>
+                <h4>Styled components</h4>
               </div>
             </article>
           </div>
@@ -60,33 +59,74 @@ const Skills = () => {
           <h3>Backend Development</h3>
           <div className="skills__content">
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon"/>
+              <FaCheckDouble className="skills__details-icon" />
               <div>
                 <h4>Node JS</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon"/>
+              <FaCheckDouble className="skills__details-icon" />
               <div>
                 <h4>MySQL</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon"/>
+              <FaCheckDouble className="skills__details-icon" />
               <div>
                 <h4>Express JS</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon"/>
+              <FaCheckDouble className="skills__details-icon" />
               <div>
                 <h4>Knex JS</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon"/>
+              <FaCheckDouble className="skills__details-icon" />
               <div>
                 <h4>Firebase</h4>
+              </div>
+            </article>
+          </div>
+        </div>
+        <div className="skills__frontend">
+          <h3>Additional</h3>
+          <div className="skills__content">
+            <article className="skills__details">
+              <FaCheckDouble className="skills__details-icon" />
+              <div>
+                <h4>AWS (basics - learning)</h4>
+              </div>
+            </article>
+            <article className="skills__details">
+              <FaCheckDouble className="skills__details-icon" />
+              <div>
+                <h4>New Relic (basics - learning)</h4>
+              </div>
+            </article>
+            <article className="skills__details">
+              <FaCheckDouble className="skills__details-icon" />
+              <div>
+                <h4>Figma (basics)</h4>
+              </div>
+            </article>
+            <article className="skills__details">
+              <FaCheckDouble className="skills__details-icon" />
+              <div>
+                <h4>Jest</h4>
+              </div>
+            </article>
+            <article className="skills__details">
+              <FaCheckDouble className="skills__details-icon" />
+              <div>
+                <h4>Cypress</h4>
+              </div>
+            </article>
+            <article className="skills__details">
+              <FaCheckDouble className="skills__details-icon" />
+              <div>
+                <h4>Contentful</h4>
               </div>
             </article>
           </div>

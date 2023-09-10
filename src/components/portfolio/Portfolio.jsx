@@ -3,6 +3,7 @@ import "./portfolio.css";
 import IMG1 from "../../assets/portfolio1.png";
 import IMG3 from "../../assets/portfolio3.png";
 import IMG4 from "../../assets/portfolio4.png";
+import IMG5 from "../../assets/portfolio5.png";
 
 const data = [
   {
@@ -11,7 +12,6 @@ const data = [
     title: "HYF Final Project",
     description: "React, Storybook, NodeJS, ExpressJS",
     github: "https://github.com/HackYourFuture-CPH/fp-class19",
-    demo: "https://staging-webshop-class19-fp.herokuapp.com/",
   },
   {
     id: 2,
@@ -27,7 +27,14 @@ const data = [
     title: "Monsters Search Application",
     description: "React, HTML, CSS",
     github: "https://github.com/nataliasowa/monsters",
-    demo:"https://helpful-dusk-11831e.netlify.app"
+    demo: "https://helpful-dusk-11831e.netlify.app",
+  },
+  {
+    id: 4,
+    image: IMG5,
+    title: "Video player",
+    description: "React,JavaScript",
+    github: "https://github.com/nataliasowa/video-player",
   },
 ];
 
@@ -47,12 +54,14 @@ const Portfolio = () => {
               <h3>{title}</h3>
               <small>{description}</small>
               <div className="portfolio__item-cta">
-                <a href={github} className="btn" target="_blank">
+                <a href={github} className="btn" target="_blank" rel="noreferrer">
                   Github
                 </a>
-                <a href={demo} className="btn btn-primary" target="_blank">
-                  Demo
-                </a>
+                {demo && (
+                  <a href={demo} className="btn btn-primary" target="_blank" rel="noreferrer">
+                    Demo
+                  </a>
+                )}
               </div>
             </article>
           );

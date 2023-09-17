@@ -26,13 +26,13 @@ const Skills = () => {
             <article className="skills__details">
               <FaCheckDouble className="skills__details-icon" />
               <div>
-                <h4>ReactJS (hooks)</h4>
+                <h4>TypeScript</h4>
               </div>
             </article>
             <article className="skills__details">
               <FaCheckDouble className="skills__details-icon" />
               <div>
-                <h4>TypeScript</h4>
+                <h4>React</h4>
               </div>
             </article>
             <article className="skills__details">
@@ -79,7 +79,7 @@ const Skills = () => {
             <article className="skills__details">
               <FaCheckDouble className="skills__details-icon" />
               <div>
-                <h4>Knex JS</h4>
+                <h4>Postman</h4>
               </div>
             </article>
             <article className="skills__details">

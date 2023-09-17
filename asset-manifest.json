@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.c205e90e.css",
-    "main.js": "/static/js/main.923dc531.js",
+    "main.js": "/static/js/main.b7bb071b.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/nataliaCV.pdf": "/static/media/nataliaCV.b24726bd7e0794fd9622.pdf",
+    "static/media/CVNataliaSowa.pdf": "/static/media/CVNataliaSowa.07d94692ed1017f2c663.pdf",
     "static/media/me-about.png": "/static/media/me-about.6650bfad20bfddca1486.png",
     "static/media/portfolio5.png": "/static/media/portfolio5.a070adbfa513f90ff90d.png",
-    "static/media/me.png": "/static/media/me.4dd55f4a3c681b20d6f6.png",
     "static/media/portfolio1.png": "/static/media/portfolio1.4e21aae8a6dd03e09efb.png",
     "static/media/portfolio4.png": "/static/media/portfolio4.151e93d5ffdb718c391f.png",
+    "static/media/me2.png": "/static/media/me2.48a4fb7c68c69049f513.png",
     "static/media/portfolio3.png": "/static/media/portfolio3.7acfd66299e68b50272c.png",
     "index.html": "/index.html",
     "main.c205e90e.css.map": "/static/css/main.c205e90e.css.map",
-    "main.923dc531.js.map": "/static/js/main.923dc531.js.map",
+    "main.b7bb071b.js.map": "/static/js/main.b7bb071b.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c205e90e.css",
-    "static/js/main.923dc531.js"
+    "static/js/main.b7bb071b.js"
   ]
 }

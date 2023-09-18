@@ -1,6 +1,9 @@
 import React from "react";
 import "./skills.css";
 import { FaCheckDouble, FaAws, FaFigma, FaHtml5, FaCss3, FaJs, FaReact, FaNodeJs } from "react-icons/fa";
+import {TbBrandTypescript, TbBrandStorybook} from "react-icons/tb"
+import {SiRedux, SiStyledcomponents, SiMysql, SiPostman,SiNewrelic, SiJest, SiCypress, SiContentful, SiExpress} from "react-icons/si"
+import {DiFirebase} from "react-icons/di"
 
 const Skills = () => {
   return (
@@ -30,7 +33,7 @@ const Skills = () => {
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <TbBrandTypescript className="skills__details-ts" />
               <div>
                 <h4>TypeScript</h4>
               </div>
@@ -42,19 +45,19 @@ const Skills = () => {
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <SiRedux className="skills__details-redux" />
               <div>
                 <h4>Redux</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <TbBrandStorybook className="skills__details-storybook" />
               <div>
                 <h4>Storybook</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <SiStyledcomponents className="skills__details-styled" />
               <div>
                 <h4>Styled components</h4>
               </div>
@@ -71,25 +74,25 @@ const Skills = () => {
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <SiMysql className="skills__details-sql" />
               <div>
                 <h4>MySQL</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <SiExpress className="skills__details-express" />
               <div>
                 <h4>Express JS</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <SiPostman className="skills__details-postman" />
               <div>
                 <h4>Postman</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <DiFirebase className="skills__details-firebase" />
               <div>
                 <h4>Firebase</h4>
               </div>
@@ -106,7 +109,7 @@ const Skills = () => {
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <SiNewrelic className="skills__details-nrelic" />
               <div>
                 <h4>New Relic (basics - learning)</h4>
               </div>
@@ -118,19 +121,19 @@ const Skills = () => {
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <SiJest className="skills__details-jest" />
               <div>
                 <h4>Jest</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <SiCypress className="skills__details-cypress" />
               <div>
                 <h4>Cypress</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <SiContentful className="skills__details-c" />
               <div>
                 <h4>Contentful</h4>
               </div>

@@ -46,7 +46,31 @@
     color: var(--color-primary);
 }
 
+.skills__details-nrelic {
+    height: auto;
+    width: 2rem;
+    color: var(--color-primary);
+}
+
 .skills__details-figma {
+    height: auto;
+    width: 1.5rem;
+    color: var(--color-primary);
+}
+
+.skills__details-jest {
+    height: auto;
+    width: 1.5rem;
+    color: var(--color-primary);
+}
+
+.skills__details-cypress {
+    height: auto;
+    width: 1.5rem;
+    color: var(--color-primary);
+}
+
+.skills__details-c {
     height: auto;
     width: 1.5rem;
     color: var(--color-primary);
@@ -70,7 +94,31 @@
     color: var(--color-primary);
 }
 
+.skills__details-ts {
+    height: auto;
+    width: 1.5rem;
+    color: var(--color-primary);
+}
+
 .skills__details-react {
+    height: auto;
+    width: 1.5rem;
+    color: var(--color-primary);
+}
+
+.skills__details-redux {
+    height: auto;
+    width: 1.5rem;
+    color: var(--color-primary);
+}
+
+.skills__details-storybook {
+    height: auto;
+    width: 1.5rem;
+    color: var(--color-primary);
+}
+
+.skills__details-styled {
     height: auto;
     width: 1.5rem;
     color: var(--color-primary);
@@ -79,6 +127,30 @@
 .skills__details-nodejs {
     height: auto;
     width: 1.5rem;
+    color: var(--color-primary);
+}
+
+.skills__details-sql {
+    height: auto;
+    width: 2rem;
+    color: var(--color-primary);
+}
+
+.skills__details-express {
+    height: auto;
+    width: 1.5rem;
+    color: var(--color-primary);
+}
+
+.skills__details-postman {
+    height: auto;
+    width: 1.5rem;
+    color: var(--color-primary);
+}
+
+.skills__details-firebase {
+    height: auto;
+    width: 2rem;
     color: var(--color-primary);
 }
 

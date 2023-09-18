@@ -1,6 +1,6 @@
 import React from "react";
 import "./skills.css";
-import { FaCheckDouble } from "react-icons/fa";
+import { FaCheckDouble, FaAws, FaFigma, FaHtml5, FaCss3, FaJs, FaReact, FaNodeJs } from "react-icons/fa";
 
 const Skills = () => {
   return (
@@ -12,13 +12,19 @@ const Skills = () => {
           <h3>Frontend Development</h3>
           <div className="skills__content">
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <FaHtml5 className="skills__details-html" />
               <div>
-                <h4>HTML & CSS</h4>
+                <h4>HTML</h4>
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <FaCss3 className="skills__details-css" />
+              <div>
+                <h4>CSS</h4>
+              </div>
+            </article>
+            <article className="skills__details">
+              <FaJs className="skills__details-js" />
               <div>
                 <h4>JavaScript</h4>
               </div>
@@ -30,7 +36,7 @@ const Skills = () => {
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <FaReact className="skills__details-react" />
               <div>
                 <h4>React</h4>
               </div>
@@ -59,7 +65,7 @@ const Skills = () => {
           <h3>Backend Development</h3>
           <div className="skills__content">
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <FaNodeJs className="skills__details-nodejs" />
               <div>
                 <h4>Node JS</h4>
               </div>
@@ -94,7 +100,7 @@ const Skills = () => {
           <h3>Additional</h3>
           <div className="skills__content">
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <FaAws className="skills__details-aws" />
               <div>
                 <h4>AWS (basics - learning)</h4>
               </div>
@@ -106,7 +112,7 @@ const Skills = () => {
               </div>
             </article>
             <article className="skills__details">
-              <FaCheckDouble className="skills__details-icon" />
+              <FaFigma className="skills__details-figma" />
               <div>
                 <h4>Figma (basics)</h4>
               </div>

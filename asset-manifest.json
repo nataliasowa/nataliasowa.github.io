@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c205e90e.css",
-    "main.js": "/static/js/main.b7bb071b.js",
+    "main.css": "/static/css/main.f2a17f58.css",
+    "main.js": "/static/js/main.66abea2f.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/CVNataliaSowa.pdf": "/static/media/CVNataliaSowa.07d94692ed1017f2c663.pdf",
     "static/media/me-about.png": "/static/media/me-about.6650bfad20bfddca1486.png",
@@ -11,12 +11,12 @@
     "static/media/me2.png": "/static/media/me2.48a4fb7c68c69049f513.png",
     "static/media/portfolio3.png": "/static/media/portfolio3.7acfd66299e68b50272c.png",
     "index.html": "/index.html",
-    "main.c205e90e.css.map": "/static/css/main.c205e90e.css.map",
-    "main.b7bb071b.js.map": "/static/js/main.b7bb071b.js.map",
+    "main.f2a17f58.css.map": "/static/css/main.f2a17f58.css.map",
+    "main.66abea2f.js.map": "/static/js/main.66abea2f.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c205e90e.css",
-    "static/js/main.b7bb071b.js"
+    "static/css/main.f2a17f58.css",
+    "static/js/main.66abea2f.js"
   ]
 }
